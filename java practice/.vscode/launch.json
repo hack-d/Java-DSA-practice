@@ -1,0 +1,420 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch BinarySearchInArray",
+            "request": "launch",
+            "mainClass": "BinarySearchInArray",
+            "projectName": "java practice_91f5337e"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "java practice_91f5337e"
+        },
+        {
+            "type": "java",
+            "name": "Launch constrctor_in_inheritance",
+            "request": "launch",
+            "mainClass": "constrctor_in_inheritance",
+            "projectName": "java practice_91f5337e"
+        },
+        {
+            "type": "java",
+            "name": "Launch inheritanece",
+            "request": "launch",
+            "mainClass": "inheritanece",
+            "projectName": "java practice_91f5337e"
+        },
+        {
+            "type": "java",
+            "name": "Launch OccurenceOfCharacter",
+            "request": "launch",
+            "mainClass": "OccurenceOfCharacter",
+            "projectName": "java practice_91f5337e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ChangeRowsAndColumnsOfArray",
+            "request": "launch",
+            "mainClass": "ChangeRowsAndColumnsOfArray",
+            "projectName": "java practice_91f5337e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArraysAreEqual",
+            "request": "launch",
+            "mainClass": "ArraysAreEqual",
+            "projectName": "java practice_91f5337e"
+        },
+        {
+            "type": "java",
+            "name": "Launch LCM",
+            "request": "launch",
+            "mainClass": "LCM",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern",
+            "request": "launch",
+            "mainClass": "Pattern",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibo_Triangle",
+            "request": "launch",
+            "mainClass": "Fibo_Triangle",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch DecimalBinary",
+            "request": "launch",
+            "mainClass": "DecimalBinary",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Class_objects",
+            "request": "launch",
+            "mainClass": "Class_objects",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Anagram",
+            "request": "launch",
+            "mainClass": "Anagram",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch ChangeRowsAndColumnsOfArray",
+            "request": "launch",
+            "mainClass": "ChangeRowsAndColumnsOfArray",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintContentsOf_2D_array",
+            "request": "launch",
+            "mainClass": "PrintContentsOf_2D_array",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckNumberIsBetween_0_and_1",
+            "request": "launch",
+            "mainClass": "CheckNumberIsBetween_0_and_1",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumberAreEqual",
+            "request": "launch",
+            "mainClass": "NumberAreEqual",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch WriteFile",
+            "request": "launch",
+            "mainClass": "WriteFile",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReadData",
+            "request": "launch",
+            "mainClass": "ReadData",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseWordsInString",
+            "request": "launch",
+            "mainClass": "ReverseWordsInString",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountNoOfWords",
+            "request": "launch",
+            "mainClass": "CountNoOfWords",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch OccurenceOfCharacter",
+            "request": "launch",
+            "mainClass": "OccurenceOfCharacter",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArraySortUsingFunctions",
+            "request": "launch",
+            "mainClass": "ArraySortUsingFunctions",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayBubbleSort",
+            "request": "launch",
+            "mainClass": "ArrayBubbleSort",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearchInArray",
+            "request": "launch",
+            "mainClass": "BinarySearchInArray",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchingElementsInArray",
+            "request": "launch",
+            "mainClass": "SearchingElementsInArray",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindDuplicateElements",
+            "request": "launch",
+            "mainClass": "FindDuplicateElements",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxAndMinInA",
+            "request": "launch",
+            "mainClass": "MaxAndMinInA",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch MissingNumberInArray",
+            "request": "launch",
+            "mainClass": "MissingNumberInArray",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintEvenAndOdd",
+            "request": "launch",
+            "mainClass": "PrintEvenAndOdd",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArraysAreEqual",
+            "request": "launch",
+            "mainClass": "ArraysAreEqual",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfArray",
+            "request": "launch",
+            "mainClass": "SumOfArray",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch FactorialOfNumber",
+            "request": "launch",
+            "mainClass": "FactorialOfNumber",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch randomNumber",
+            "request": "launch",
+            "mainClass": "randomNumber",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch generatePrime",
+            "request": "launch",
+            "mainClass": "generatePrime",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch primeNumber",
+            "request": "launch",
+            "mainClass": "primeNumber",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibonacciNumbers",
+            "request": "launch",
+            "mainClass": "fibonacciNumbers",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch findLargestNumber",
+            "request": "launch",
+            "mainClass": "findLargestNumber",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch countSumOfDigits",
+            "request": "launch",
+            "mainClass": "countSumOfDigits",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch countNoOfEvenOddDigits",
+            "request": "launch",
+            "mainClass": "countNoOfEvenOddDigits",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch countNumberOfDigits",
+            "request": "launch",
+            "mainClass": "countNumberOfDigits",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindromeString",
+            "request": "launch",
+            "mainClass": "palindromeString",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindrome",
+            "request": "launch",
+            "mainClass": "palindrome",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseString",
+            "request": "launch",
+            "mainClass": "reverseString",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseNumber",
+            "request": "launch",
+            "mainClass": "reverseNumber",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch swap_number",
+            "request": "launch",
+            "mainClass": "swap_number",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch constrctor_in_inheritance",
+            "request": "launch",
+            "mainClass": "constrctor_in_inheritance",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch inheritanece",
+            "request": "launch",
+            "mainClass": "inheritanece",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Guess_The_Number",
+            "request": "launch",
+            "mainClass": "Guess_The_Number",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch parcrice_access_modifiers",
+            "request": "launch",
+            "mainClass": "parcrice_access_modifiers",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch rock_paper_scissor",
+            "request": "launch",
+            "mainClass": "rock_paper_scissor",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch loop",
+            "request": "launch",
+            "mainClass": "loop",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch methods",
+            "request": "launch",
+            "mainClass": "methods",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch oops",
+            "request": "launch",
+            "mainClass": "oops",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch hello_world",
+            "request": "launch",
+            "mainClass": "hello_world",
+            "projectName": "java projects_e9029adf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch hello_world",
+            "request": "launch",
+            "mainClass": "hello_world",
+            "projectName": "java projects_65bf6189"
+        }
+    ]
+}
